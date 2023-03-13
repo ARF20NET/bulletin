@@ -1,0 +1,2 @@
+<h3>12-02-2023</h3>
+<p>I had to restrict /FTPServer/films due to a worrying rate of DMCA requests. Sorry for the inconvenience. Email me or go to discord if you have any questions.</p>

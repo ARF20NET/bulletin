@@ -1,0 +1,2 @@
+<h3>02-07-2021</h3>
+<p>OS install is being delayed because it turns out the R720 cannot be booted from a PCIe drive lol, so I ordered a SATA SSD for boot. Now I'm waiting for a proprietary DELL power cable to power it, arrives this saturday.</p>

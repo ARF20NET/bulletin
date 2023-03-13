@@ -1,0 +1,2 @@
+<h3>07-07-2021</h3>
+<p>IP Ranges reblocked in the server, I forgot about that and now i have to deal with 6GB of nginx spam log. These shameful IPs has been published for shame under /shameful-ips.txt.</p>

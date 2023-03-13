@@ -1,0 +1,3 @@
+<h3>25-06-2022</h3>
+<p>Forgot to mention, server is racked up, with PDU and patch panel, and a small switch.
+I will be adding a 24p DELL switch and Mikrotik router soon.</p>

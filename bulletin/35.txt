@@ -1,0 +1,3 @@
+<h3>03-03-2023</h3>
+<p>I got some yummy 64GB of 2Rx4 RAM for the server, more VMs to come :)
+Also thanks to Yero, donated me two custom fibers of the apropiate length.</p>

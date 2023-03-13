@@ -1,0 +1,2 @@
+<h3>16-08-2021</h3>
+<p>Improvements in streaming, now ANYONE can use ARFNET to stream, and his stream is web watchable at https://arf20.com/stream.php</p>

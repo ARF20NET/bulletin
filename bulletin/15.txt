@@ -1,0 +1,2 @@
+<h3>15-08-2021</h3>
+<p>I have became the owner of arf20.com, and its A record is now pointing to ARFNET, feel free to use http://arf20.com/ rather than the longer old name from FreeDNS (afraid.org) ending in mooo.com</p>

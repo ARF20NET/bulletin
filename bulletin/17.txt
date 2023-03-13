@@ -1,0 +1,2 @@
+<h3>19-08-2021</h3>
+<p>Implemented paging in the meme page so your browser doesn't have to load 70 videos at the same time (and die in the attempt)</p>

@@ -1,0 +1,3 @@
+<h3>21-08-2021</h3>
+<p>IMPORTANT ANNOUNCEMENT
+I'll be off in the Andorran Pyrenees in a trip, for a week, so i won't be able to properly administrate ARFNET nor physically nor by SSH, because i will have no mobile data because Andorra is not a EU member and portability is 15€/day. I will only be able to be present on this discord server, and to monitor ARFNET by SSH when I'm at the hotel with its WiFi, which won't be very frequent. My departure will be tomorrow early in morning. See you.</p>

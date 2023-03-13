@@ -1,0 +1,3 @@
+<h3>13-08-2021</h3>
+<p>Long story short: I bricked the iDRAC of the server, tried everything, shipped it back to the seller, got my money back, now I have a new server, everything runs fine, lets forget this ever happend.
+ARFNET running off the server now, PC is now backup again.</p>

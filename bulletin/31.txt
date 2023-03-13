@@ -1,0 +1,4 @@
+<h3>30-08-2022</h3>
+<p>After much deliberation, the ARFNET administration board has decided to hire the local ISP avanzafibra effective immediate.
+On Friday 2 5:30pm, the installation will begin, and shortly after ARFNET will be migrated to a new static IP address, with the new Mikrotik router and a
+symmetric 1gbps fiber (GPON) backbone, hopefully with better peering.</p>

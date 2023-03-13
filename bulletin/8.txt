@@ -1,0 +1,2 @@
+<h3>29-06-2021</h3>
+<p>Hardware arrived! M.2 SSD is installed in the card, in the server. Ubuntu server install will begin tomorrow.</p>
